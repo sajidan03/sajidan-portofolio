@@ -2,7 +2,7 @@
 title: Instrumental Solo Guitar tingkat kabupaten ke-3
 description: Instrumental Solo Guitar tingkat kabupaten ke-3
 date: 2025-01-28
-image: https://images.pexels.com/photos/4050314/pexels-photo-4050314.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
+image:  
 minRead: 7
 author:
   # name: Emma Thompson

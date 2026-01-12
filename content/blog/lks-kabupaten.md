@@ -2,7 +2,7 @@
 title: "LKS iT Software solution for bussiness tingkat kabupaten ke-1"
 description: Lomba keterampilan siswa jenjang SMK tingkat kabupaten
 date: 2025-04-23
-image: "/images/lks-kab.png"
+image: 
 minRead: 8
 author:
   # name: Emma Thompson

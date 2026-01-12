@@ -11,16 +11,14 @@ hero:
   images:
     - src: /images/lks-kab.webp
       alt: Random Image 1
-    - src: /hero/random-2.avif
-      alt: Random Image 2
-    - src: /hero/random-3.avif
+    - src: /images/pos-dekstop.png
       alt: Random Image 3
-    # - src: /hero/random-4.avif
-    #   alt: Random Image 4
-    # - src: /hero/random-5.avif
-    #   alt: Random Image 5
-    # - src: /hero/random-6.avif
-    #   alt: Random Image 6
+    - src: /images/web-smk.png
+      alt: Random Image 4
+    - src: /images/kaswarga-landing.png
+      alt: Random Image 5
+    - src: /images/kaswarga-admin.png
+      alt: Random Image 6
     # - src: /hero/random-7.avif
     #   alt: Random Image 7
     # - src: /hero/random-8.avif
