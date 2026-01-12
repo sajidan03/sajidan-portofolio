@@ -11,4 +11,3 @@ author:
   #   alt: Emma Thompson
 ---
 
-lorem
