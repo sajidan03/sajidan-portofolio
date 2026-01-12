@@ -1,5 +1,5 @@
 title: Aplikasi POS Dekstop - Sistem Kasir
-description: Buat website sekolah SMK YPC yang informatif dan menarik. Website ini dirancang untuk menampilkan profil sekolah, program studi, kegiatan siswa, dan informasi penting lainnya dengan tata letak yang responsif dan mudah dinavigasi.
+description: Aplikasi dekstop yang dirancang untuk mengelola transaksi penjualan di toko fisik. Fitur utama meliputi pencatatan penjualan, manajemen inventaris, dan laporan keuangan secara real-time.
 image: "/images/pos-dekstop.png"
 tags: ["UI Design", "Front-End Dev", "Animation"]
 date: "2023"
