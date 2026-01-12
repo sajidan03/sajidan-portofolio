@@ -1,6 +1,6 @@
-title: Website sekolah SMK - SMK YPC
+title: E-commerce Website - Toko Online Saya
 description: Buat website sekolah SMK YPC yang informatif dan menarik. Website ini dirancang untuk menampilkan profil sekolah, program studi, kegiatan siswa, dan informasi penting lainnya dengan tata letak yang responsif dan mudah dinavigasi.
-image: https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80 # Example image related to music/audio
+image: "/images/e-commerce.png"
 url: "#"
 tags: ["UI Design", "Front-End Dev", "Animation"]
 date: "2023"
