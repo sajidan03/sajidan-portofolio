@@ -26,20 +26,20 @@ export default defineAppConfig({
     credits: `Built with Nuxt UI • © ${new Date().getFullYear()}`,
     colorMode: false,
     links: [{
-      'icon': 'i-simple-icons-discord',
-      'to': 'https://go.nuxt.com/discord',
+      'icon': 'i-simple-icons-whatsapp',
+      'to': 'https://wa.me/6281563854329',
       'target': '_blank',
-      'aria-label': 'Nuxt on Discord'
+      'aria-label': 'WhatsApp'
     }, {
-      'icon': 'i-simple-icons-x',
-      'to': 'https://go.nuxt.com/x',
+      'icon': 'i-simple-icons-instagram',
+      'to': 'https://instagram.com/sajidanrifansyah_',
       'target': '_blank',
-      'aria-label': 'Nuxt on X'
+      'aria-label': 'Instagram'
     }, {
       'icon': 'i-simple-icons-github',
-      'to': 'https://github.com/nuxt/ui',
+      'to': 'https://github.com/sajidan03/',
       'target': '_blank',
-      'aria-label': 'Nuxt UI on GitHub'
+      'aria-label': 'Github'
     }]
   }
 })
