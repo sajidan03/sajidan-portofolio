@@ -23,16 +23,17 @@ export default defineAppConfig({
     }
   },
   footer: {
-    credits: `Built with Nuxt UI • © ${new Date().getFullYear()}`,
+    // credits: `Built with Nuxt UI • © ${new Date().getFullYear()}`,
+    credits: `Made by sajidan with Nuxt UI • © ${new Date().getFullYear()}`,
     colorMode: false,
     links: [{
       'icon': 'i-simple-icons-whatsapp',
-      'to': 'https://wa.me/6281563854329',
+      'to': 'https://wa.me/6287883475184',
       'target': '_blank',
       'aria-label': 'WhatsApp'
     }, {
       'icon': 'i-simple-icons-instagram',
-      'to': 'https://instagram.com/sajidanrifansyah_',
+      'to': 'https://instagram.com/sajidanrfn',
       'target': '_blank',
       'aria-label': 'Instagram'
     }, {
