@@ -5,7 +5,7 @@ export default defineAppConfig({
       light: '/images/foto-sajidan.jpeg', 
       alt: 'Foto profil Muhammad Sajidan Rifansyah'
     },
-    meetingLink: 'https://cal.com/',
+    meetingLink: 'https://github.com/sajidan03/',
     email: 'rifansyahsajidan03@gmail.com',
     available: true
   },
