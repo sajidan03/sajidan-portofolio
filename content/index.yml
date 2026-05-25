@@ -102,6 +102,20 @@ experience:
         logo: "i-simple-icons-flutter"
         url: "https://flutter.dev"
         color: "#0553B1"
+    - position: "Membuat website sistem parkir iot"
+      date: "2026"
+      company:
+        name: React Typescript 
+        logo: "i-simple-icons-react"
+        url: "https://reactjs.org"
+        color: "#61DBFB"
+    - position: "Membuat firmware sistem parkir iot"
+      date: "2026"
+      company:
+        name: C++
+        logo: "i-simple-icons-C"
+        url: "https://reactjs.org"
+        color: "#61DBFB"
 # testimonials:
 #   - quote: "Emma's approach to UX design completely transformed our product. She has a rare ability to balance beautiful aesthetics with functional simplicity. The redesign not only looked better, but it reduced our customer support tickets by 40% and increased conversion rates across all key metrics."
 #     author:
